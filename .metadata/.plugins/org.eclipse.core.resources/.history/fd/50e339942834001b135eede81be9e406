@@ -1,0 +1,12 @@
+package com.dasafioitau.desafioItau.model;
+
+public class Estatistica {
+
+
+	 count
+	 sum
+	 avg
+	 min
+	 max
+	
+}
