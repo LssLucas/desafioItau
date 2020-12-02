@@ -1,0 +1,17 @@
+package com.dasafioitau.desafioItau.repository;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import com.dasafioitau.desafioItau.model.Estatistica;
+
+public class Estatisticas {
+
+	private List<Estatistica> lista = new ArrayList<Estatistica>();
+	
+	public void calcularEstatisticas() {
+		Estatistica nova = new Estatistica();
+		
+	}
+	
+}

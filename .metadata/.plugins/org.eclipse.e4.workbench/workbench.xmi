@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_Ei3xwTQkEeua9ItYJFRKqg" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_Ei3xwjQkEeua9ItYJFRKqg" bindingContexts="_Ei3xyzQkEeua9ItYJFRKqg">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Service.java&quot; tooltip=&quot;desafioItau/src/main/java/com/dasafioitau/desafioItau/service/Service.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/desafioItau/src/main/java/com/dasafioitau/desafioItau/service/Service.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Estatistica.java&quot; tooltip=&quot;desafioItau/src/main/java/com/dasafioitau/desafioItau/model/Estatistica.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/desafioItau/src/main/java/com/dasafioitau/desafioItau/model/Estatistica.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Estatistica.java&quot; tooltip=&quot;desafioItau/src/main/java/com/dasafioitau/desafioItau/controller/Estatistica.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/desafioItau/src/main/java/com/dasafioitau/desafioItau/controller/Estatistica.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Estatistica.java&quot; tooltip=&quot;desafioItau/src/main/java/com/dasafioitau/desafioItau/repository/Estatistica.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/desafioItau/src/main/java/com/dasafioitau/desafioItau/repository/Estatistica.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Transacao.java&quot; tooltip=&quot;desafioItau/src/main/java/com/dasafioitau/desafioItau/model/Transacao.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/desafioItau/src/main/java/com/dasafioitau/desafioItau/model/Transacao.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Transacao.java&quot; tooltip=&quot;desafioItau/src/main/java/com/dasafioitau/desafioItau/controller/Transacao.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/desafioItau/src/main/java/com/dasafioitau/desafioItau/controller/Transacao.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Transacao.java&quot; tooltip=&quot;desafioItau/src/main/java/com/dasafioitau/desafioItau/service/Transacao.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/desafioItau/src/main/java/com/dasafioitau/desafioItau/service/Transacao.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Repository.java&quot; tooltip=&quot;desafioItau/src/main/java/com/dasafioitau/desafioItau/repository/Repository.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/desafioItau/src/main/java/com/dasafioitau/desafioItau/repository/Repository.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Controller.java&quot; tooltip=&quot;desafioItau/src/main/java/com/dasafioitau/desafioItau/controller/Controller.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/desafioItau/src/main/java/com/dasafioitau/desafioItau/controller/Controller.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.PropertiesFileEditor&quot; name=&quot;application.properties&quot; tooltip=&quot;desafioItau/src/main/resources/application.properties&quot;>&#xD;&#xA;&lt;persistable path=&quot;/desafioItau/src/main/resources/application.properties&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ModelEstatistica.java&quot; tooltip=&quot;desafioItau/src/main/java/com/dasafioitau/desafioItau/model/ModelEstatistica.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/desafioItau/src/main/java/com/dasafioitau/desafioItau/model/ModelEstatistica.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ModelTransacao.java&quot; tooltip=&quot;desafioItau/src/main/java/com/dasafioitau/desafioItau/model/ModelTransacao.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/desafioItau/src/main/java/com/dasafioitau/desafioItau/model/ModelTransacao.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Model.java&quot; tooltip=&quot;desafioItau/src/main/java/com/dasafioitau/desafioItau/model/Model.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/desafioItau/src/main/java/com/dasafioitau/desafioItau/model/Model.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;DesafioItauApplication.java&quot; tooltip=&quot;desafioItau/src/main/java/com/dasafioitau/desafioItau/DesafioItauApplication.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/desafioItau/src/main/java/com/dasafioitau/desafioItau/DesafioItauApplication.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Transacao.java&quot; tooltip=&quot;desafioItau/src/main/java/com/dasafioitau/desafioItau/controller/Transacao.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/desafioItau/src/main/java/com/dasafioitau/desafioItau/controller/Transacao.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Estatistica.java&quot; tooltip=&quot;desafioItau/src/main/java/com/dasafioitau/desafioItau/controller/Estatistica.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/desafioItau/src/main/java/com/dasafioitau/desafioItau/controller/Estatistica.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Transacao.java&quot; tooltip=&quot;desafioItau/src/main/java/com/dasafioitau/desafioItau/repository/Transacao.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/desafioItau/src/main/java/com/dasafioitau/desafioItau/repository/Transacao.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Estatistica.java&quot; tooltip=&quot;desafioItau/src/main/java/com/dasafioitau/desafioItau/repository/Estatistica.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/desafioItau/src/main/java/com/dasafioitau/desafioItau/repository/Estatistica.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Estatistica.java&quot; tooltip=&quot;desafioItau/src/main/java/com/dasafioitau/desafioItau/model/Estatistica.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/desafioItau/src/main/java/com/dasafioitau/desafioItau/model/Estatistica.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Transacoes.java&quot; tooltip=&quot;desafioItau/src/main/java/com/dasafioitau/desafioItau/repository/Transacoes.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/desafioItau/src/main/java/com/dasafioitau/desafioItau/repository/Transacoes.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Estatisticas.java&quot; tooltip=&quot;desafioItau/src/main/java/com/dasafioitau/desafioItau/repository/Estatisticas.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/desafioItau/src/main/java/com/dasafioitau/desafioItau/repository/Estatisticas.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Transacao.java&quot; tooltip=&quot;desafioItau/src/main/java/com/dasafioitau/desafioItau/model/Transacao.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/desafioItau/src/main/java/com/dasafioitau/desafioItau/model/Transacao.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Service.java&quot; tooltip=&quot;desafioItau/src/main/java/com/dasafioitau/desafioItau/service/Service.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/desafioItau/src/main/java/com/dasafioitau/desafioItau/service/Service.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Transacao.java&quot; tooltip=&quot;desafioItau/src/main/java/com/dasafioitau/desafioItau/service/Transacao.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/desafioItau/src/main/java/com/dasafioitau/desafioItau/service/Transacao.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Repository.java&quot; tooltip=&quot;desafioItau/src/main/java/com/dasafioitau/desafioItau/repository/Repository.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/desafioItau/src/main/java/com/dasafioitau/desafioItau/repository/Repository.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Controller.java&quot; tooltip=&quot;desafioItau/src/main/java/com/dasafioitau/desafioItau/controller/Controller.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/desafioItau/src/main/java/com/dasafioitau/desafioItau/controller/Controller.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.PropertiesFileEditor&quot; name=&quot;application.properties&quot; tooltip=&quot;desafioItau/src/main/resources/application.properties&quot;>&#xD;&#xA;&lt;persistable path=&quot;/desafioItau/src/main/resources/application.properties&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ModelEstatistica.java&quot; tooltip=&quot;desafioItau/src/main/java/com/dasafioitau/desafioItau/model/ModelEstatistica.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/desafioItau/src/main/java/com/dasafioitau/desafioItau/model/ModelEstatistica.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;ModelTransacao.java&quot; tooltip=&quot;desafioItau/src/main/java/com/dasafioitau/desafioItau/model/ModelTransacao.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/desafioItau/src/main/java/com/dasafioitau/desafioItau/model/ModelTransacao.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Model.java&quot; tooltip=&quot;desafioItau/src/main/java/com/dasafioitau/desafioItau/model/Model.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/desafioItau/src/main/java/com/dasafioitau/desafioItau/model/Model.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;DesafioItauApplication.java&quot; tooltip=&quot;desafioItau/src/main/java/com/dasafioitau/desafioItau/DesafioItauApplication.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/desafioItau/src/main/java/com/dasafioitau/desafioItau/DesafioItauApplication.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
-  <children xsi:type="basic:TrimmedWindow" xmi:id="_Ei3xwjQkEeua9ItYJFRKqg" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_FN_LUTQkEeua9ItYJFRKqg" label="%trimmedwindow.label.eclipseSDK" x="952" y="38" width="976" height="1050">
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_Ei3xwjQkEeua9ItYJFRKqg" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_FN_LUTQkEeua9ItYJFRKqg" label="%trimmedwindow.label.eclipseSDK" x="952" y="38" width="976" height="529">
     <persistedState key="coolBarVisible" value="true"/>
     <persistedState key="perspectiveBarVisible" value="true"/>
     <persistedState key="isRestored" value="true"/>
@@ -160,71 +160,69 @@
       <tags>View</tags>
       <tags>categoryTag:Help</tags>
     </sharedElements>
-    <sharedElements xsi:type="advanced:Area" xmi:id="_Fq_3cDQkEeua9ItYJFRKqg" elementId="org.eclipse.ui.editorss" selectedElement="_ILB8sDRPEeua9ItYJFRKqg">
-      <children xsi:type="basic:PartSashContainer" xmi:id="_ILB8sDRPEeua9ItYJFRKqg" selectedElement="_FtWn8jQkEeua9ItYJFRKqg">
-        <children xsi:type="basic:PartStack" xmi:id="_X2pWQTQpEeua9ItYJFRKqg" elementId="PartStack@e937444" containerData="6700" selectedElement="_fLZAUDRXEeua9ItYJFRKqg">
-          <children xsi:type="basic:Part" xmi:id="_jNfhoDRIEeua9ItYJFRKqg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Estatistica.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-            <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Estatistica.java&quot; partName=&quot;Estatistica.java&quot; title=&quot;Estatistica.java&quot; tooltip=&quot;desafioItau/src/main/java/com/dasafioitau/desafioItau/controller/Estatistica.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/desafioItau/src/main/java/com/dasafioitau/desafioItau/controller/Estatistica.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;411&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-            <tags>Editor</tags>
-            <tags>removeOnHide</tags>
-            <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          </children>
-          <children xsi:type="basic:Part" xmi:id="_td5acDRIEeua9ItYJFRKqg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Transacao.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-            <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Transacao.java&quot; partName=&quot;Transacao.java&quot; title=&quot;Transacao.java&quot; tooltip=&quot;desafioItau/src/main/java/com/dasafioitau/desafioItau/controller/Transacao.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/desafioItau/src/main/java/com/dasafioitau/desafioItau/controller/Transacao.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;636&quot; selectionTopPixel=&quot;29&quot;/>&#xD;&#xA;&lt;/editor>"/>
-            <tags>Editor</tags>
-            <tags>removeOnHide</tags>
-            <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          </children>
-          <children xsi:type="basic:Part" xmi:id="_7aOLYDRIEeua9ItYJFRKqg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Transacao.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-            <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Transacao.java&quot; partName=&quot;Transacao.java&quot; title=&quot;Transacao.java&quot; tooltip=&quot;desafioItau/src/main/java/com/dasafioitau/desafioItau/model/Transacao.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/desafioItau/src/main/java/com/dasafioitau/desafioItau/model/Transacao.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;52&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;285&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-            <tags>Editor</tags>
-            <tags>removeOnHide</tags>
-            <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          </children>
-          <children xsi:type="basic:Part" xmi:id="_5PcC8DRVEeua9ItYJFRKqg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Estatistica.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-            <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Estatistica.java&quot; partName=&quot;Estatistica.java&quot; title=&quot;Estatistica.java&quot; tooltip=&quot;desafioItau/src/main/java/com/dasafioitau/desafioItau/repository/Estatistica.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/desafioItau/src/main/java/com/dasafioitau/desafioItau/repository/Estatistica.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-            <tags>Editor</tags>
-            <tags>removeOnHide</tags>
-            <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          </children>
-          <children xsi:type="basic:Part" xmi:id="_fLZAUDRXEeua9ItYJFRKqg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Service.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-            <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Service.java&quot; partName=&quot;Service.java&quot; title=&quot;Service.java&quot; tooltip=&quot;desafioItau/src/main/java/com/dasafioitau/desafioItau/service/Service.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/desafioItau/src/main/java/com/dasafioitau/desafioItau/service/Service.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;79&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-            <tags>Editor</tags>
-            <tags>removeOnHide</tags>
-            <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          </children>
+    <sharedElements xsi:type="advanced:Area" xmi:id="_Fq_3cDQkEeua9ItYJFRKqg" elementId="org.eclipse.ui.editorss" selectedElement="_FtWn8jQkEeua9ItYJFRKqg">
+      <children xsi:type="basic:PartStack" xmi:id="_FtWn8jQkEeua9ItYJFRKqg" elementId="bottom" selectedElement="_GSqY8DRnEeup05bFAVU_Kw">
+        <tags>org.eclipse.e4.secondaryDataStack</tags>
+        <tags>active</tags>
+        <children xsi:type="advanced:Placeholder" xmi:id="_FtWn8zQkEeua9ItYJFRKqg" elementId="org.eclipse.ui.views.ProblemView" toBeRendered="false" ref="_FrMrwTQkEeua9ItYJFRKqg" closeable="true">
+          <tags>View</tags>
+          <tags>categoryTag:General</tags>
         </children>
-        <children xsi:type="basic:PartStack" xmi:id="_FtWn8jQkEeua9ItYJFRKqg" elementId="bottom" containerData="3300" selectedElement="_FtWn9zQkEeua9ItYJFRKqg">
-          <tags>org.eclipse.e4.secondaryDataStack</tags>
+        <children xsi:type="advanced:Placeholder" xmi:id="_FtWn9DQkEeua9ItYJFRKqg" elementId="org.eclipse.jdt.ui.JavadocView" ref="_FrNS0DQkEeua9ItYJFRKqg" closeable="true">
+          <tags>View</tags>
+          <tags>categoryTag:Java</tags>
+        </children>
+        <children xsi:type="advanced:Placeholder" xmi:id="_FtWn9TQkEeua9ItYJFRKqg" elementId="org.eclipse.jdt.ui.SourceView" ref="_FrNS0TQkEeua9ItYJFRKqg" closeable="true">
+          <tags>View</tags>
+          <tags>categoryTag:Java</tags>
+        </children>
+        <children xsi:type="advanced:Placeholder" xmi:id="_FtWn9jQkEeua9ItYJFRKqg" elementId="org.eclipse.search.ui.views.SearchView" toBeRendered="false" ref="_FrN54DQkEeua9ItYJFRKqg" closeable="true">
+          <tags>View</tags>
+          <tags>categoryTag:General</tags>
+        </children>
+        <children xsi:type="advanced:Placeholder" xmi:id="_FtWn9zQkEeua9ItYJFRKqg" elementId="org.eclipse.ui.console.ConsoleView" ref="_FrN54TQkEeua9ItYJFRKqg" closeable="true">
+          <tags>View</tags>
+          <tags>categoryTag:General</tags>
+        </children>
+        <children xsi:type="advanced:Placeholder" xmi:id="_FtWn-DQkEeua9ItYJFRKqg" elementId="org.eclipse.ui.views.BookmarkView" toBeRendered="false" ref="_FrN54jQkEeua9ItYJFRKqg" closeable="true">
+          <tags>View</tags>
+          <tags>categoryTag:General</tags>
+        </children>
+        <children xsi:type="advanced:Placeholder" xmi:id="_FtWn-TQkEeua9ItYJFRKqg" elementId="org.eclipse.ui.views.ProgressView" toBeRendered="false" ref="_FrOg8DQkEeua9ItYJFRKqg" closeable="true">
+          <tags>View</tags>
+          <tags>categoryTag:General</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_WVkjQDRkEeup05bFAVU_Kw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Estatistica.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Estatistica.java&quot; partName=&quot;Estatistica.java&quot; title=&quot;Estatistica.java&quot; tooltip=&quot;desafioItau/src/main/java/com/dasafioitau/desafioItau/repository/Estatistica.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/desafioItau/src/main/java/com/dasafioitau/desafioItau/repository/Estatistica.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;102&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>removeOnHide</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_uhzL0DRmEeup05bFAVU_Kw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Transacao.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Transacao.java&quot; partName=&quot;Transacao.java&quot; title=&quot;Transacao.java&quot; tooltip=&quot;desafioItau/src/main/java/com/dasafioitau/desafioItau/repository/Transacao.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/desafioItau/src/main/java/com/dasafioitau/desafioItau/repository/Transacao.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;244&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>removeOnHide</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_GSqY8DRnEeup05bFAVU_Kw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Transacao.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Transacao.java&quot; partName=&quot;Transacao.java&quot; title=&quot;Transacao.java&quot; tooltip=&quot;desafioItau/src/main/java/com/dasafioitau/desafioItau/controller/Transacao.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/desafioItau/src/main/java/com/dasafioitau/desafioItau/controller/Transacao.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;340&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>removeOnHide</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>active</tags>
-          <children xsi:type="advanced:Placeholder" xmi:id="_FtWn8zQkEeua9ItYJFRKqg" elementId="org.eclipse.ui.views.ProblemView" ref="_FrMrwTQkEeua9ItYJFRKqg" closeable="true">
-            <tags>View</tags>
-            <tags>categoryTag:General</tags>
-          </children>
-          <children xsi:type="advanced:Placeholder" xmi:id="_FtWn9DQkEeua9ItYJFRKqg" elementId="org.eclipse.jdt.ui.JavadocView" ref="_FrNS0DQkEeua9ItYJFRKqg" closeable="true">
-            <tags>View</tags>
-            <tags>categoryTag:Java</tags>
-          </children>
-          <children xsi:type="advanced:Placeholder" xmi:id="_FtWn9TQkEeua9ItYJFRKqg" elementId="org.eclipse.jdt.ui.SourceView" ref="_FrNS0TQkEeua9ItYJFRKqg" closeable="true">
-            <tags>View</tags>
-            <tags>categoryTag:Java</tags>
-          </children>
-          <children xsi:type="advanced:Placeholder" xmi:id="_FtWn9jQkEeua9ItYJFRKqg" elementId="org.eclipse.search.ui.views.SearchView" toBeRendered="false" ref="_FrN54DQkEeua9ItYJFRKqg" closeable="true">
-            <tags>View</tags>
-            <tags>categoryTag:General</tags>
-          </children>
-          <children xsi:type="advanced:Placeholder" xmi:id="_FtWn9zQkEeua9ItYJFRKqg" elementId="org.eclipse.ui.console.ConsoleView" ref="_FrN54TQkEeua9ItYJFRKqg" closeable="true">
-            <tags>View</tags>
-            <tags>categoryTag:General</tags>
-          </children>
-          <children xsi:type="advanced:Placeholder" xmi:id="_FtWn-DQkEeua9ItYJFRKqg" elementId="org.eclipse.ui.views.BookmarkView" toBeRendered="false" ref="_FrN54jQkEeua9ItYJFRKqg" closeable="true">
-            <tags>View</tags>
-            <tags>categoryTag:General</tags>
-          </children>
-          <children xsi:type="advanced:Placeholder" xmi:id="_FtWn-TQkEeua9ItYJFRKqg" elementId="org.eclipse.ui.views.ProgressView" toBeRendered="false" ref="_FrOg8DQkEeua9ItYJFRKqg" closeable="true">
-            <tags>View</tags>
-            <tags>categoryTag:General</tags>
-          </children>
+          <tags>activeOnClose</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_KHfVcDRnEeup05bFAVU_Kw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Estatistica.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Estatistica.java&quot; partName=&quot;Estatistica.java&quot; title=&quot;Estatistica.java&quot; tooltip=&quot;desafioItau/src/main/java/com/dasafioitau/desafioItau/controller/Estatistica.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/desafioItau/src/main/java/com/dasafioitau/desafioItau/controller/Estatistica.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;79&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>removeOnHide</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_bmF6UDRnEeup05bFAVU_Kw" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Estatistica.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Estatistica.java&quot; partName=&quot;Estatistica.java&quot; title=&quot;Estatistica.java&quot; tooltip=&quot;desafioItau/src/main/java/com/dasafioitau/desafioItau/model/Estatistica.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/desafioItau/src/main/java/com/dasafioitau/desafioItau/model/Estatistica.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>removeOnHide</tags>
+          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
         </children>
       </children>
     </sharedElements>
@@ -249,7 +247,7 @@
     <sharedElements xsi:type="basic:Part" xmi:id="_FrMrwDQkEeua9ItYJFRKqg" elementId="org.eclipse.ui.navigator.ProjectExplorer" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Project Explorer" iconURI="platform:/plugin/org.eclipse.ui.navigator.resources/icons/full/eview16/resource_persp.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.navigator.resources.ProjectExplorer"/>
       <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.ui.navigator.resources"/>
-      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;>&#xD;&#xA;&lt;lastRecentlyUsedFilters/>&#xD;&#xA;&lt;/view>"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view CommonNavigator.LINKING_ENABLED=&quot;0&quot; currentWorkingSetName=&quot;Aggregate for window 1606861519969&quot; org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets=&quot;0&quot;>&#xD;&#xA;&lt;lastRecentlyUsedFilters/>&#xD;&#xA;&lt;/view>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
       <menus xmi:id="_hAdjADRAEeua9ItYJFRKqg" elementId="org.eclipse.ui.navigator.ProjectExplorer">
@@ -273,14 +271,26 @@
     <sharedElements xsi:type="basic:Part" xmi:id="_FrNS0DQkEeua9ItYJFRKqg" elementId="org.eclipse.jdt.ui.JavadocView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Javadoc" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/eview16/javadoc.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.jdt.internal.ui.infoviews.JavadocView"/>
       <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.jdt.ui"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
       <tags>View</tags>
       <tags>categoryTag:Java</tags>
+      <menus xmi:id="_2c0T4DRhEeup05bFAVU_Kw" elementId="org.eclipse.jdt.ui.JavadocView">
+        <tags>ViewMenu</tags>
+        <tags>menuContribution:menu</tags>
+      </menus>
+      <toolbar xmi:id="_2c0T4TRhEeup05bFAVU_Kw" elementId="org.eclipse.jdt.ui.JavadocView" visible="false"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_FrNS0TQkEeua9ItYJFRKqg" elementId="org.eclipse.jdt.ui.SourceView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Declaration" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/eview16/source.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.jdt.internal.ui.infoviews.SourceView"/>
       <persistedState key="originalCompatibilityViewBundle" value="org.eclipse.jdt.ui"/>
+      <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
       <tags>View</tags>
       <tags>categoryTag:Java</tags>
+      <menus xmi:id="_2TUZoDRhEeup05bFAVU_Kw" elementId="org.eclipse.jdt.ui.SourceView">
+        <tags>ViewMenu</tags>
+        <tags>menuContribution:menu</tags>
+      </menus>
+      <toolbar xmi:id="_2TUZoTRhEeup05bFAVU_Kw" elementId="org.eclipse.jdt.ui.SourceView" visible="false"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_FrN54DQkEeua9ItYJFRKqg" elementId="org.eclipse.search.ui.views.SearchView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Search" iconURI="platform:/plugin/org.eclipse.search/icons/full/eview16/searchres.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.search2.internal.ui.SearchView"/>
@@ -294,13 +304,11 @@
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
       <tags>View</tags>
       <tags>categoryTag:General</tags>
-      <tags>active</tags>
-      <tags>activeOnClose</tags>
       <menus xmi:id="_RPnQgDQsEeua9ItYJFRKqg" elementId="org.eclipse.ui.console.ConsoleView">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
       </menus>
-      <toolbar xmi:id="_RPnQgTQsEeua9ItYJFRKqg" elementId="org.eclipse.ui.console.ConsoleView"/>
+      <toolbar xmi:id="_RPnQgTQsEeua9ItYJFRKqg" elementId="org.eclipse.ui.console.ConsoleView" visible="false"/>
     </sharedElements>
     <sharedElements xsi:type="basic:Part" xmi:id="_FrN54jQkEeua9ItYJFRKqg" elementId="org.eclipse.ui.views.BookmarkView" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" label="Bookmarks" iconURI="platform:/plugin/org.eclipse.ui.ide/icons/full/eview16/bkmrk_nav.png" tooltip="" closeable="true">
       <persistedState key="originalCompatibilityViewClass" value="org.eclipse.ui.internal.views.markers.BookmarksView"/>
@@ -369,7 +377,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_FUFMQDQkEeua9ItYJFRKqg" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_FUJdsDQkEeua9ItYJFRKqg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_Ek81ZDQkEeua9ItYJFRKqg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_kmfLgDRhEeup05bFAVU_Kw" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_Ek81ZDQkEeua9ItYJFRKqg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_FUFMQTQkEeua9ItYJFRKqg" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -400,7 +408,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_FUFzUDQkEeua9ItYJFRKqg" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_FUKr0DQkEeua9ItYJFRKqg" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" enabled="false" type="Check" command="_Ek7AOzQkEeua9ItYJFRKqg"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_kmhnwDRhEeup05bFAVU_Kw" elementId="org.eclipse.ui.window.pinEditor" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_Ek7AOzQkEeua9ItYJFRKqg"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_FUFzUTQkEeua9ItYJFRKqg" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -2144,7 +2152,7 @@
   <addons xmi:id="_Ei4Y0TQkEeua9ItYJFRKqg" elementId="MinMax Addon" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.MinMaxAddon"/>
   <addons xmi:id="_Ei4Y0jQkEeua9ItYJFRKqg" elementId="org.eclipse.ui.workbench.addon.0" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.HandlerProcessingAddon"/>
   <addons xmi:id="_EjbycDQkEeua9ItYJFRKqg" elementId="SplitterAddon" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.splitteraddon.SplitterAddon"/>
-  <addons xmi:id="_IYS0IKimEeS11vbz3f9ezw" elementId="org.eclipse.ui.ide.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
+  <addons xmi:id="_j3diUTRhEeup05bFAVU_Kw" elementId="org.eclipse.ui.ide.addon.0" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
   <addons xmi:id="_dz0JgGOlEeSMMaPQU2nlzw" elementId="org.eclipse.ui.ide.application.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.ide.application/org.eclipse.ui.internal.ide.application.addons.ModelCleanupAddon"/>
   <categories xmi:id="_EkydUDQkEeua9ItYJFRKqg" elementId="org.eclipse.team.ui.category.team" name="Team" description="Actions that apply when working with a Team"/>
   <categories xmi:id="_EkydUTQkEeua9ItYJFRKqg" elementId="org.eclipse.ui.category.views" name="Views" description="Commands for opening views"/>
