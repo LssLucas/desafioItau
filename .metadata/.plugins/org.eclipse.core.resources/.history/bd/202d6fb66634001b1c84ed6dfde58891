@@ -1,0 +1,19 @@
+package com.dasafioitau.desafioItau.repository;
+
+import java.util.ArrayList;
+import java.util.DoubleSummaryStatistics;
+import java.util.List;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
+
+import com.dasafioitau.desafioItau.model.Estatistica;
+
+public class Estatisticas {
+
+	private List<Estatistica> lista = new ArrayList<Estatistica>();
+	
+	public void calcularEstatisticas() {
+
+	}
+	
+}
