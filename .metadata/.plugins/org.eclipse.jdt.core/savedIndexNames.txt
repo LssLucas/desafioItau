@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\novo_\OneDrive\Documentos\20201201\.metadata\.plugins\org.eclipse.jdt.core
+1973054438.index
