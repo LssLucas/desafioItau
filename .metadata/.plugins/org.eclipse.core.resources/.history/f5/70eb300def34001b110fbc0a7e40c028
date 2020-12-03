@@ -1,0 +1,30 @@
+package com.dasafioitau.desafioItau.model;
+
+public class Estatistica {
+	
+	private int count;
+	
+	private float sum;
+	
+	private float avg;
+	
+	private float min;
+	
+	private float max;
+	
+	
+
+}
+
+
+/*
+ * 
+ * {
+ "count": 10,
+ "sum": 1234.56,
+ "avg": 123.456,
+ "min": 12.34,
+ "max": 123.56
+}
+
+ */

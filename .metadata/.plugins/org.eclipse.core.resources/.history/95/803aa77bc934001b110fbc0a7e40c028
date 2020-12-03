@@ -1,0 +1,28 @@
+package com.dasafioitau.desafioItau.controller;
+
+import java.awt.List;
+
+import org.springframework.http.HttpStatus;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class Transacao {
+	
+	@RequestMapping("/transacao")
+	public Transacao perimitirTrasacoes(){
+		return addTransacao(HttpStatus.CREATED);
+	}
+	
+
+	
+	@PostMapping("/transacao")
+	public static Transacao addTransacao(@RequestBody HttpStatus created) {
+		return Transacao.addTransacao(created);
+		
+	}
+	
+	
+}

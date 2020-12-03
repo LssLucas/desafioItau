@@ -1,0 +1,7 @@
+package com.dasafioitau.desafioItau.repository;
+
+import org.springframework.ui.Model;
+
+public interface Transacao extends Model {
+	
+}

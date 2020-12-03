@@ -1,0 +1,15 @@
+package com.dasafioitau.desafioItau.controller;
+
+import org.springframework.http.HttpStatus;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class Transacao {
+	@PostMapping("/transacao")
+	public HttpStatus addTransacao(@PathVariable Transacao transacao) {
+		return HttpStatus.CREATED;
+		
+	}
+}

@@ -1,0 +1,20 @@
+package com.dasafioitau.desafioItau.service;
+
+import java.awt.List;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Map;
+
+import com.dasafioitau.desafioItau.model.Transacao;
+
+public class Service {
+
+	private static Map<Long, Transacao> transacao = new HashMap<>();
+
+	private static Long index = 2L;
+	
+	public static List addTransacao(Integer id){
+		return new ArrayList<>(transacao.values());
+	}
+	
+}

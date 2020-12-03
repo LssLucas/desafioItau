@@ -1,0 +1,11 @@
+package com.dasafioitau.desafioItau.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+@Repository
+public interface Transacao extends JpaRepository<Transacao, Integer>{
+
+	
+	
+}
