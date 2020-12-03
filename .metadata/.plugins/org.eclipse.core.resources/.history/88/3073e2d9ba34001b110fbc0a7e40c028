@@ -1,0 +1,25 @@
+package com.dasafioitau.desafioItau.controller;
+
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.DeleteMapping;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+
+
+
+
+
+public class Transacao {
+
+	@DeleteMapping(path = { "/transacao" })
+	public void delete() {
+		com.dasafioitau.desafioItau.repository.Transacao.
+	}
+
+	@PostMapping(path = { "/transacao" })
+	public String insertar(Model model) {
+		solicitudService.insertar(s);
+		return "transicao";
+	}
+	
+}

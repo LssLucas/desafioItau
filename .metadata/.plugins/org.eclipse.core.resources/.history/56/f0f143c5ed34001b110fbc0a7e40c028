@@ -1,0 +1,11 @@
+package com.dasafioitau.desafioItau.model;
+
+import java.util.Date;
+
+public class Transacao {
+
+	private int id;
+	private float valor;
+	private Date dataHora;
+	
+}
