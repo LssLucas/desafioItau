@@ -1,0 +1,24 @@
+package com.dasafioitau.desafioItau.model;
+
+public class EstatisticaModel {
+
+	//Atributos
+	private int count;
+	
+	private float sum;
+	
+	private float avg;
+	
+	private float min;
+	
+	private float max;
+	
+	//Contrutores
+	public EstatisticaModel() {
+		super();
+	}
+	
+	public EstatisticaModel(int count, float sum, float avg, float max, float min) {
+		
+	}
+}

@@ -1,0 +1,16 @@
+package com.dasafioitau.desafioItau.model;
+
+import java.util.Date;
+
+import javax.persistence.Temporal;
+import javax.persistence.TemporalType;
+
+public static void TransacaoModel() {
+	
+	private int valor;
+		
+	@Temporal(TemporalType.TIMESTAMP)
+    private Date dataHora = new java.sql.Date(System.currentTimeMillis());
+	
+
+}

@@ -2,31 +2,23 @@ package com.dasafioitau.desafioItau.model;
 
 import java.util.Date;
 
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
-import javax.persistence.Id;
-import javax.persistence.Temporal;
-import javax.persistence.TemporalType;
-import javax.validation.constraints.Size;
-
 public class TransacaoModel {
-
-	@Id
-	@GeneratedValue(strategy = GenerationType.IDENTITY)
-	private int id;
 	
-	@Size(min=0)
+	//Atributos
+	
 	private float valor;
 	
-	@Temporal(TemporalType.TIMESTAMP)
 	private Date dataHora;
-
-	public int getId() {
-		return id;
+	
+	//Construtores
+	public TransacaoModel() {
+		super();
 	}
-
-	public void setId(int id) {
-		this.id = id;
+	
+	public TransacaoModel(float valor, Date dataHora) {
+		super();
+		this.dataHora = dataHora;
+		this.valor = valor;
 	}
 
 	public float getValor() {
