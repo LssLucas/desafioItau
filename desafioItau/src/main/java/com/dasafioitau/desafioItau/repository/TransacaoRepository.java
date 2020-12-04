@@ -9,6 +9,5 @@ import org.springframework.stereotype.Repository;
 public interface TransacaoRepository extends JpaRepository<TransacaoRepository, Integer>{
 	
 	public List<com.dasafioitau.desafioItau.model.TransacaoModel> novaTransferencia(String novaTranfe);
-
 	
 }

@@ -1,7 +1,17 @@
 package com.dasafioitau.desafioItau.model;
 
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+@Entity		
+@Table(name = "estatistica")
 public class EstatisticaModel {
 	
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private int id;
 	
 	private int count;
@@ -13,6 +23,7 @@ public class EstatisticaModel {
 	private float min;
 	
 	private float max;
+	
 	
 
 	public int getId() {
