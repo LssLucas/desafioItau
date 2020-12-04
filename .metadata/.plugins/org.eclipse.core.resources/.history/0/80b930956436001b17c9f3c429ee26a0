@@ -1,0 +1,13 @@
+package com.dasafioitau.desafioItau.service;
+
+import java.util.List;
+
+import com.dasafioitau.desafioItau.model.*;
+
+public class ServiceTransacao {
+
+	TransacaoModel addTransacao(TransacaoModel transacao);
+	
+	
+	
+}

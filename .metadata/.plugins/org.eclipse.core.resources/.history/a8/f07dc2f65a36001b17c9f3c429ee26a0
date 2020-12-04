@@ -1,0 +1,12 @@
+package com.dasafioitau.desafioItau.model;
+
+public class TransacaoModel {
+	
+	public static void Transacao() {
+		
+		
+		
+		return ;
+	}
+
+}
