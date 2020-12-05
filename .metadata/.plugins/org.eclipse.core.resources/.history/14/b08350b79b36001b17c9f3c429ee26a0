@@ -1,0 +1,45 @@
+package com.dasafioitau.desafioItau.model;
+
+import java.time.OffsetDateTime;
+
+import javax.persistence.Temporal;
+import javax.persistence.TemporalType;
+
+public class TransacaoModel {
+	
+	//Atributos	
+	private float valor;
+	
+	@Temporal(TemporalType.TIMESTAMP)
+	private OffsetDateTime dataHora = new java.sql.Date(System.currentTimeMillis());;
+	
+	//Construtores
+	public TransacaoModel() {
+		super();
+	}
+	
+	public TransacaoModel(float valor, Date dataHora) {
+		super();
+		this.dataHora = dataHora;
+		this.valor = valor;
+	}
+
+	public float getValor() {
+		return valor;
+	}
+
+	public void setValor(float valor) {
+		this.valor = valor;
+	}
+
+	public Date getDataHora() {
+		return dataHora;
+	}
+
+	public void setDataHora(Date dataHora) {
+		this.dataHora = dataHora;
+	}
+	
+	
+	
+}

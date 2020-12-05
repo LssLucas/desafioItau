@@ -1,5 +1,7 @@
 package com.dasafioitau.desafioItau.model;
 
+import antlr.collections.List;
+
 public class EstatisticaModel {
 
 	//Atributos
@@ -65,8 +67,6 @@ public class EstatisticaModel {
 
 	public void setMax(float max) {
 		this.max = max;
-	}
-	
-	
+	}	
 	
 }

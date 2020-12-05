@@ -1,0 +1,11 @@
+package com.dasafioitau.desafioItau.service;
+
+public interface ServiceEstatistica {
+
+	static void getAll() {
+		
+	}
+	
+	
+	
+}
