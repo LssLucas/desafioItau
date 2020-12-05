@@ -1,0 +1,22 @@
+package com.dasafioitau.desafioItau.service.impl;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import com.dasafioitau.desafioItau.model.EstatisticaModel;
+import com.dasafioitau.desafioItau.service.ServiceEstatistica;
+
+public class ServiceEstatisticaImpl implements ServiceEstatistica{
+	
+	static List<EstatisticaModel> alunos = new ArrayList<EstatisticaModel>();
+	private static int i = 0;
+	
+	@Override
+	public EstatisticaModel insert(EstatisticaModel estatistica) {
+		i++;
+		estatistica.setId(i);
+		this.estatistica.add(estatistica);
+		return aluno;
+	}
+
+}
