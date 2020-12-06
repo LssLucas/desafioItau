@@ -1,0 +1,23 @@
+package com.dasafioitau.desafioItau.controller;
+
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+
+import com.dasafioitau.desafioItau.model.TransacaoModel;
+import com.dasafioitau.desafioItau.service.TransacaoService;
+import com.dasafioitau.desafioItau.service.impl.TransacaoServiceImpl;
+
+
+
+public class TransacaoController {
+
+	TransacaoService transacaoService = new TransacaoServiceImpl();
+	
+	@PostMapping("/transacao")
+	public ResponseEntity<TransacaoModel> newTransacao(@RequestBody TransacaoModel transacao){
+		transacaoService.newTransacao(transacao);	
+		return ResponseEntity.ok(null);
+	}
+	
+}

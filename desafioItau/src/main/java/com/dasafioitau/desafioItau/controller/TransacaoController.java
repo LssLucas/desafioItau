@@ -1,23 +1,39 @@
 package com.dasafioitau.desafioItau.controller;
 
+import javax.validation.Valid;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.dasafioitau.desafioItau.service.ServiceTransacao;
+import com.dasafioitau.desafioItau.model.TransacaoModel;
+import com.dasafioitau.desafioItau.service.TransacaoService;
+
 
 @CrossOrigin("*")
 @RestController
+@RequestMapping("/transacao")
 public class TransacaoController {
-
-	@PostMapping("/transacao")
-	public void addTransacao(){
+	
+	@Autowired
+	private TransacaoService transacaoR;
+	
+	@PostMapping
+	public ResponseEntity<TransacaoModel> newTransacao(@Valid @RequestBody TransacaoModel transacao){
+		transacaoR.newTransacao(transacao);
+		return ResponseEntity.status(HttpStatus.CREATED).build();	
 	}
 	
-	@DeleteMapping("/delete")
-	public void deleteAll() {
-		ServiceTransacao.deleteAll();
+	@DeleteMapping
+	public ResponseEntity<TransacaoModel> delete(){
+		transacaoR.clear();
+		return ResponseEntity.status(HttpStatus.NO_CONTENT).build();
 	}
 	
 }

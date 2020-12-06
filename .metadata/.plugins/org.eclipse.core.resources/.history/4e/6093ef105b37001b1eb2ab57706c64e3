@@ -1,0 +1,20 @@
+package com.dasafioitau.desafioItau.service.impl;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import com.dasafioitau.desafioItau.model.TransacaoModel;
+import com.dasafioitau.desafioItau.service.TransacaoService;
+
+
+
+public abstract class TransacaoServiceImpl implements TransacaoService {
+
+	static List<TransacaoModel> transacao = new ArrayList<TransacaoModel>();
+
+	@Override
+	public TransacaoModel newTransacao(TransacaoModel transacao) {
+		return transacao();
+	}
+	
+}
