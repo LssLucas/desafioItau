@@ -13,8 +13,8 @@ public class TransacaoModel {
 	private double valor;
 	
 	
-	@PastOrPresent
-	private OffsetDateTime dataHora = OffsetDateTime.now();;
+	@PastOrPresent(message = "A data deve ser atual ou estar no passado")
+	private OffsetDateTime dataHora;
 
 	public double getValor() {
 		return valor;

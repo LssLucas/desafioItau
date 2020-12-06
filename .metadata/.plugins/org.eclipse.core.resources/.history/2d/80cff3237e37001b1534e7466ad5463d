@@ -2,19 +2,30 @@ package com.dasafioitau.desafioItau.model;
 
 import java.time.OffsetDateTime;
 
-import javax.validation.constraints.PastOrPresent;
+import javax.persistence.Temporal;
+import javax.persistence.TemporalType;
 
-
+import com.sun.istack.NotNull;
 
 public class TransacaoModel {
 	
 	//Atributos
-	
+	@NotNull
 	private double valor;
 	
+	@Temporal(TemporalType.TIMESTAMP)
+	private OffsetDateTime dataHora = OffsetDateTime.now();
 	
-	@PastOrPresent
-	private OffsetDateTime dataHora = OffsetDateTime.now();;
+	//Construtores
+	public TransacaoModel() {
+		super();
+	}
+	
+	public TransacaoModel(double valor, OffsetDateTime dataHora) {
+		super();
+		this.dataHora = dataHora;
+		this.valor = valor;
+	}
 
 	public double getValor() {
 		return valor;
