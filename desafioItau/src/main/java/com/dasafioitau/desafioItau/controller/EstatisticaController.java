@@ -16,13 +16,13 @@ import com.dasafioitau.desafioItau.service.TransacaoService;
 @RequestMapping("/estatistica")
 @RestController
 public class EstatisticaController {
-	
+
 	@Autowired
-	private TransacaoService trasnsacaoS;
-	
+	private TransacaoService transacaoS;
+
 	@GetMapping
-	public ResponseEntity<DoubleSummaryStatistics> getEstatistica(){
-		return ResponseEntity.status(HttpStatus.OK).body(trasnsacaoS.getEstatistica());
+	public ResponseEntity<DoubleSummaryStatistics> getEstatistica() {
+		return ResponseEntity.status(HttpStatus.OK).body(transacaoS.getEstatistica());
 	}
-	
+
 }

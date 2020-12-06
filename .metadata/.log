@@ -2318,3 +2318,874 @@ java.lang.ArrayStoreException: de.yatta.eclipse.launcher.core.win32.WinClientCon
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 01:53:19.969
 !MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 01:55:20.550
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 01:57:20.999
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 01:59:21.402
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 02:01:21.930
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 02:03:22.312
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 02:05:22.762
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 02:07:23.544
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 02:09:24.037
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 02:11:24.441
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 02:13:25.591
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 02:15:26.279
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 02:17:27.210
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 02:19:27.804
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 02:21:28.196
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 02:23:28.522
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 02:25:28.973
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 02:27:29.495
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 02:29:29.965
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 02:31:30.387
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 02:33:30.838
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 02:35:31.282
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 02:37:31.933
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 02:39:32.701
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 02:41:33.405
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 02:43:33.760
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 02:45:34.425
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 02:47:35.310
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 02:49:35.929
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 02:51:36.606
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 02:53:37.112
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 02:55:37.560
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 02:57:38.030
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 02:59:38.526
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 03:01:39.038
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 03:03:39.623
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 03:05:40.035
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 03:07:40.443
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 03:09:40.839
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 03:11:41.330
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 03:13:41.798
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 03:15:42.140
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 03:17:42.626
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 03:19:42.980
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 03:21:43.393
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 03:23:43.924
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 03:25:44.425
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 03:27:44.919
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 03:29:45.323
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 03:31:46.304
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 03:33:46.735
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 03:35:47.222
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 03:37:47.605
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 03:39:47.979
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 03:41:48.430
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 03:43:48.903
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 03:45:49.397
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 03:47:49.811
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 03:49:50.500
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 03:51:50.885
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 03:53:51.311
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 03:55:51.837
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 03:57:52.873
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 03:59:55.072
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 04:01:55.572
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 04:03:56.010
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 04:05:56.400
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 04:07:58.004
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 04:09:58.433
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 04:11:59.285
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY de.yatta.eclipse.launcher.client.integration 1 0 2020-12-06 04:12:52.548
+!MESSAGE Launcher not reached, starting launcher and retrying
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 04:14:00.113
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 04:14:57.613
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 04:16:01.226
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 04:18:09.994
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 04:20:12.351
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 04:22:13.247
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 04:24:14.103
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 04:26:14.741
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 04:28:15.649
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 04:30:16.233
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 04:32:16.871
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2020-12-06 04:33:08.220
+!MESSAGE Unexpected interrupt while waiting on ECF browse request
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.lang.Object.wait(Native Method)
+	at org.eclipse.core.internal.jobs.Semaphore.acquire(Semaphore.java:44)
+	at org.eclipse.core.internal.jobs.JobManager.join(JobManager.java:914)
+	at org.eclipse.core.internal.jobs.InternalJob.join(InternalJob.java:344)
+	at org.eclipse.core.runtime.jobs.Job.join(Job.java:547)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.waitOnSelf(FileInfoReader.java:74)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFiles(FileInfoReader.java:110)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFile(FileInfoReader.java:125)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getLastModified(FileInfoReader.java:130)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.getLastModified(RepositoryTransport.java:249)
+	at org.eclipse.oomph.p2.internal.core.CachingTransport.delegateGetLastModified(CachingTransport.java:396)
+	at org.eclipse.oomph.p2.internal.core.CachingTransport.getLastModified(CachingTransport.java:345)
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.createCacheFromFile(CacheManager.java:108)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.XZedSimpleArtifactRepositoryFactory.getLocalFile(XZedSimpleArtifactRepositoryFactory.java:65)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.XZedSimpleArtifactRepositoryFactory.load(XZedSimpleArtifactRepositoryFactory.java:89)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.XZedSimpleArtifactRepositoryFactory.load(XZedSimpleArtifactRepositoryFactory.java:42)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.factoryLoad(ArtifactRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at jdk.internal.reflect.GeneratedMethodAccessor147.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:409)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:201)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Artifact.loadRepository(CachingRepositoryManager.java:543)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.load(CompositeArtifactRepository.java:496)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.addChild(CompositeArtifactRepository.java:177)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.<init>(CompositeArtifactRepository.java:99)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepositoryFactory.load(CompositeArtifactRepositoryFactory.java:120)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.factoryLoad(ArtifactRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at jdk.internal.reflect.GeneratedMethodAccessor147.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:409)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:201)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Artifact.loadRepository(CachingRepositoryManager.java:543)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.load(CompositeArtifactRepository.java:496)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.addChild(CompositeArtifactRepository.java:177)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.<init>(CompositeArtifactRepository.java:99)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepositoryFactory.load(CompositeArtifactRepositoryFactory.java:120)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.factoryLoad(ArtifactRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:409)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:201)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Artifact.loadRepository(CachingRepositoryManager.java:543)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+	at org.eclipse.epp.internal.mpc.ui.catalog.MarketplaceCatalog.lambda$12(MarketplaceCatalog.java:338)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2020-12-06 04:33:08.221
+!MESSAGE Unexpected interrupt while waiting on ECF browse request
+!STACK 0
+java.lang.InterruptedException
+	at org.eclipse.core.internal.jobs.Semaphore.acquire(Semaphore.java:34)
+	at org.eclipse.core.internal.jobs.JobManager.join(JobManager.java:914)
+	at org.eclipse.core.internal.jobs.InternalJob.join(InternalJob.java:344)
+	at org.eclipse.core.runtime.jobs.Job.join(Job.java:547)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.waitOnSelf(FileInfoReader.java:74)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFiles(FileInfoReader.java:110)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFile(FileInfoReader.java:125)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getLastModified(FileInfoReader.java:130)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.getLastModified(RepositoryTransport.java:249)
+	at org.eclipse.oomph.p2.internal.core.CachingTransport.delegateGetLastModified(CachingTransport.java:396)
+	at org.eclipse.oomph.p2.internal.core.CachingTransport.getLastModified(CachingTransport.java:345)
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.createCacheFromFile(CacheManager.java:108)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.XZedSimpleArtifactRepositoryFactory.getLocalFile(XZedSimpleArtifactRepositoryFactory.java:65)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.XZedSimpleArtifactRepositoryFactory.load(XZedSimpleArtifactRepositoryFactory.java:89)
+	at org.eclipse.equinox.internal.p2.artifact.repository.simple.XZedSimpleArtifactRepositoryFactory.load(XZedSimpleArtifactRepositoryFactory.java:42)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.factoryLoad(ArtifactRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at jdk.internal.reflect.GeneratedMethodAccessor147.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:409)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:201)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Artifact.loadRepository(CachingRepositoryManager.java:543)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.load(CompositeArtifactRepository.java:496)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.addChild(CompositeArtifactRepository.java:177)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.<init>(CompositeArtifactRepository.java:99)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepositoryFactory.load(CompositeArtifactRepositoryFactory.java:120)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.factoryLoad(ArtifactRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at jdk.internal.reflect.GeneratedMethodAccessor147.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:409)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:201)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Artifact.loadRepository(CachingRepositoryManager.java:543)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.load(CompositeArtifactRepository.java:496)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.addChild(CompositeArtifactRepository.java:177)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepository.<init>(CompositeArtifactRepository.java:99)
+	at org.eclipse.equinox.internal.p2.artifact.repository.CompositeArtifactRepositoryFactory.load(CompositeArtifactRepositoryFactory.java:120)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.factoryLoad(ArtifactRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:409)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:201)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Artifact.loadRepository(CachingRepositoryManager.java:543)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:131)
+	at org.eclipse.equinox.internal.p2.artifact.repository.ArtifactRepositoryManager.loadRepository(ArtifactRepositoryManager.java:125)
+	at org.eclipse.epp.internal.mpc.ui.catalog.MarketplaceCatalog.lambda$12(MarketplaceCatalog.java:338)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 04:34:17.587
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 04:36:18.185
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 04:38:30.551
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 04:40:30.899
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 04:42:31.284
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 04:44:31.621
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 04:46:32.085
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 04:48:32.594
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY de.yatta.eclipse.launcher.client.integration 4 0 2020-12-06 04:48:47.415
+!MESSAGE Error while retrieving profileid
+!STACK 0
+java.lang.RuntimeException: de.yatta.eclipse.launcher.communication.HttpException: HTTP -1
+	at de.yatta.eclipse.launcher.client.integration.LauncherClientIntegrationImpl.registerProfile(LauncherClientIntegrationImpl.java:223)
+	at de.yatta.eclipse.launcher.client.integration.LauncherClientIntegrationImpl.getProfileId(LauncherClientIntegrationImpl.java:253)
+	at de.yatta.eclipse.launcher.client.integration.LauncherClientIntegrationPlugin.getProfileId(LauncherClientIntegrationPlugin.java:220)
+	at de.yatta.eclipse.launcher.client.integration.UpdateJob.run(UpdateJob.java:321)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: de.yatta.eclipse.launcher.communication.HttpException: HTTP -1
+	at de.yatta.eclipse.launcher.communication.LauncherHttpClient.handleUnexpectedResponseStatus(LauncherHttpClient.java:579)
+	at de.yatta.eclipse.launcher.communication.LauncherHttpClient.handleResponse(LauncherHttpClient.java:573)
+	at de.yatta.eclipse.launcher.communication.Connector.send(Connector.java:205)
+	at de.yatta.eclipse.launcher.communication.Connector.post(Connector.java:177)
+	at de.yatta.eclipse.launcher.communication.Connector.postForm(Connector.java:182)
+	at de.yatta.eclipse.launcher.communication.Connector.postForm(Connector.java:193)
+	at de.yatta.eclipse.launcher.communication.LauncherHttpClient.registerProfile(LauncherHttpClient.java:411)
+	at de.yatta.eclipse.launcher.client.integration.LauncherClientHttpBridgeImpl.registerProfile(LauncherClientHttpBridgeImpl.java:82)
+	at de.yatta.eclipse.launcher.client.integration.LauncherClientIntegrationImpl.registerProfile(LauncherClientIntegrationImpl.java:191)
+	... 4 more
+	Suppressed: java.io.IOException: Invalid Http response
+		at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+		at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+		at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+		at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)
+		at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)
+		at java.base/sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1982)
+		at java.base/sun.net.www.protocol.http.HttpURLConnection$10.run(HttpURLConnection.java:1977)
+		at java.base/java.security.AccessController.doPrivileged(AccessController.java:554)
+		at java.base/sun.net.www.protocol.http.HttpURLConnection.getChainedException(HttpURLConnection.java:1976)
+		at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1544)
+		at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1528)
+		at de.yatta.eclipse.launcher.communication.LauncherHttpClient.exhaust(LauncherHttpClient.java:622)
+		at de.yatta.eclipse.launcher.communication.LauncherHttpClient.handleUnexpectedResponseStatus(LauncherHttpClient.java:582)
+		... 12 more
+	Caused by: java.io.IOException: Invalid Http response
+		at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1642)
+		at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1528)
+		at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:527)
+		at de.yatta.eclipse.launcher.communication.LauncherHttpClient.checkResponse(LauncherHttpClient.java:630)
+		at de.yatta.eclipse.launcher.communication.LauncherHttpClient.handleResponse(LauncherHttpClient.java:561)
+		... 11 more
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 04:50:34.379
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 04:52:39.707
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 04:54:40.700
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 04:56:41.600
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 04:58:42.324
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 05:00:42.859
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 05:02:43.239
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 05:04:43.654
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 05:06:44.222
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 05:08:45.732
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2020-12-06 05:09:17.435
+!MESSAGE Connection to http://download.eclipse.org/releases/2020-09/202009161000/plugins/org.eclipse.gmf.runtime.common.ui.services.action_1.7.0.202004160913.jar failed on Connect to download.eclipse.org:80 [download.eclipse.org/198.41.30.199] failed: Connection timed out: no further information. Retry attempt 0 started
+!STACK 0
+org.apache.http.conn.HttpHostConnectException: Connect to download.eclipse.org:80 [download.eclipse.org/198.41.30.199] failed: Connection timed out: no further information
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:156)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:374)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:393)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:236)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:186)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:110)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:83)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1003)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:995)
+	at org.eclipse.ecf.provider.filetransfer.httpclient45.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:991)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:76)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.net.ConnectException: Connection timed out: no further information
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:589)
+	at java.base/sun.nio.ch.NioSocketImpl.timedFinishConnect(NioSocketImpl.java:549)
+	at java.base/sun.nio.ch.NioSocketImpl.connect(NioSocketImpl.java:597)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:333)
+	at java.base/java.net.Socket.connect(Socket.java:648)
+	at org.apache.http.conn.socket.PlainConnectionSocketFactory.connectSocket(PlainConnectionSocketFactory.java:75)
+	at org.apache.http.impl.conn.DefaultHttpClientConnectionOperator.connect(DefaultHttpClientConnectionOperator.java:142)
+	... 13 more
+!SESSION 2020-12-06 05:10:48.271 -----------------------------------------------
+eclipse.buildId=4.17.0.I20200902-1800
+java.version=14.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -data file:/C:/Users/novo_/OneDrive/Documentos/desafioItau/ -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2020-12-06 05:11:19.465
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-12-06 05:11:19.465
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@46c19350,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5b4b6f3b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.jface 4 0 2020-12-06 05:11:45.826
+!MESSAGE /icons/full/eview16/problems_view.gif
+!STACK 0
+java.io.FileNotFoundException: /icons/full/eview16/problems_view.gif
+	at org.eclipse.osgi.storage.url.bundleentry.Handler.findBundleEntry(Handler.java:55)
+	at org.eclipse.osgi.storage.url.BundleResourceHandler.openConnection(BundleResourceHandler.java:174)
+	at java.base/java.net.URL.openConnection(URL.java:1101)
+	at org.eclipse.core.internal.boot.PlatformURLConnection.connect(PlatformURLConnection.java:115)
+	at org.eclipse.core.internal.boot.PlatformURLConnection.getURLAsLocal(PlatformURLConnection.java:240)
+	at org.eclipse.core.internal.runtime.PlatformURLConverter.toFileURL(PlatformURLConverter.java:37)
+	at org.eclipse.core.runtime.FileLocator.toFileURL(FileLocator.java:261)
+	at org.eclipse.jface.resource.URLImageDescriptor.getFilePath(URLImageDescriptor.java:232)
+	at org.eclipse.jface.resource.URLImageDescriptor.access$2(URLImageDescriptor.java:220)
+	at org.eclipse.jface.resource.URLImageDescriptor$URLImageFileNameProvider.getImagePath(URLImageDescriptor.java:57)
+	at org.eclipse.swt.internal.DPIUtil.validateAndGetImagePathAtZoom(DPIUtil.java:419)
+	at org.eclipse.swt.graphics.Image.<init>(Image.java:687)
+	at org.eclipse.jface.resource.URLImageDescriptor.createImage(URLImageDescriptor.java:263)
+	at org.eclipse.jface.resource.ImageDescriptor.createResource(ImageDescriptor.java:227)
+	at org.eclipse.jface.resource.DeviceResourceManager.allocate(DeviceResourceManager.java:55)
+	at org.eclipse.jface.resource.AbstractResourceManager.create(AbstractResourceManager.java:88)
+	at org.eclipse.jface.resource.LocalResourceManager.allocate(LocalResourceManager.java:72)
+	at org.eclipse.jface.resource.AbstractResourceManager.create(AbstractResourceManager.java:88)
+	at org.eclipse.jface.resource.ResourceManager.createImage(ResourceManager.java:175)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.getImage(AbstractContributionItem.java:151)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.updateIcons(AbstractContributionItem.java:177)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.update(AbstractContributionItem.java:127)
+	at org.eclipse.e4.ui.workbench.renderers.swt.AbstractContributionItem.fill(AbstractContributionItem.java:264)
+	at org.eclipse.jface.action.MenuManager.doItemFill(MenuManager.java:729)
+	at org.eclipse.jface.action.MenuManager.update(MenuManager.java:806)
+	at org.eclipse.jface.action.MenuManager.update(MenuManager.java:673)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRenderer.scheduleManagerUpdate(MenuManagerRenderer.java:1228)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRenderer.subscribeUIElementTopicVisible(MenuManagerRenderer.java:213)
+	at jdk.internal.reflect.GeneratedMethodAccessor39.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:58)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:236)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:133)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4725)
+	at org.eclipse.e4.ui.internal.workbench.swt.E4Application$1.syncExec(E4Application.java:219)
+	at org.eclipse.e4.ui.internal.di.UIEventObjectSupplier$UIEventHandler.handleEvent(UIEventObjectSupplier.java:64)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:205)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:203)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:151)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:132)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:75)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:44)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:55)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:63)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:424)
+	at org.eclipse.e4.ui.model.application.ui.impl.UIElementImpl.setVisible(UIElementImpl.java:361)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributionRecord.updateVisibility(ContributionRecord.java:113)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRendererFilter.updateElementVisibility(MenuManagerRendererFilter.java:197)
+	at org.eclipse.e4.ui.workbench.renderers.swt.MenuManagerRendererFilter.updateElementVisibility(MenuManagerRendererFilter.java:208)
+	at org.eclipse.ui.internal.WorkbenchWindow.lambda$3(WorkbenchWindow.java:868)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:185)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3987)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3615)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:153)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:150)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:657)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1465)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-12-06 05:11:46.687
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\novo_'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY de.yatta.eclipse.launcher.osgi.core 2 0 2020-12-06 05:11:49.552
+!MESSAGE Error while trying to get HttpClientConfigurer Interceptors
+!STACK 0
+java.lang.ArrayStoreException: de.yatta.eclipse.launcher.core.win32.WinClientConfigurerInterceptor
+	at org.osgi.util.tracker.ServiceTracker.getServices(ServiceTracker.java:856)
+	at de.yatta.eclipse.launcher.osgi.core.EclipseHttpClientConfigurer.getInterceptors(EclipseHttpClientConfigurer.java:31)
+	at de.yatta.eclipse.launcher.communication.utils.HttpClientConfigurer.createHttpClientBuilder(HttpClientConfigurer.java:32)
+	at de.yatta.eclipse.launcher.communication.utils.HttpRequestContext.createHttpClient(HttpRequestContext.java:190)
+	at de.yatta.eclipse.launcher.communication.utils.HttpRequestContext.initialize(HttpRequestContext.java:164)
+	at de.yatta.eclipse.launcher.osgi.core.EclipseHttpRequestContext.setApplication(EclipseHttpRequestContext.java:103)
+	at de.yatta.eclipse.launcher.osgi.core.EclipseHttpRequestContext$1.addingService(EclipseHttpRequestContext.java:53)
+	at de.yatta.eclipse.launcher.osgi.core.EclipseHttpRequestContext$1.addingService(EclipseHttpRequestContext.java:1)
+	at org.osgi.util.tracker.ServiceTracker$Tracked.customizerAdding(ServiceTracker.java:943)
+	at org.osgi.util.tracker.ServiceTracker$Tracked.customizerAdding(ServiceTracker.java:1)
+	at org.osgi.util.tracker.AbstractTracked.trackAdding(AbstractTracked.java:256)
+	at org.osgi.util.tracker.AbstractTracked.trackInitial(AbstractTracked.java:183)
+	at org.osgi.util.tracker.ServiceTracker.open(ServiceTracker.java:321)
+	at org.osgi.util.tracker.ServiceTracker.open(ServiceTracker.java:264)
+	at de.yatta.eclipse.launcher.osgi.core.EclipseHttpRequestContext.assertInitialized(EclipseHttpRequestContext.java:85)
+	at de.yatta.eclipse.launcher.communication.utils.HttpRequestContext.prepare(HttpRequestContext.java:386)
+	at de.yatta.eclipse.launcher.communication.utils.BasicRequestFactory.prepare(BasicRequestFactory.java:40)
+	at de.yatta.eclipse.launcher.communication.utils.BasicPlatformRequestFactory.prepare(BasicPlatformRequestFactory.java:36)
+	at de.yatta.eclipse.launcher.osgi.core.BasicEclipseApplicationInterface$1.run(BasicEclipseApplicationInterface.java:142)
+	at de.yatta.eclipse.launcher.osgi.core.BasicEclipseApplicationInterface$2.run(BasicEclipseApplicationInterface.java:473)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY de.yatta.eclipse.launcher.osgi.core 2 0 2020-12-06 05:11:49.562
+!MESSAGE Error while trying to get HttpClientConfigurer Interceptors
+!STACK 0
+java.lang.ArrayStoreException: de.yatta.eclipse.launcher.core.win32.WinClientConfigurerInterceptor
+	at org.osgi.util.tracker.ServiceTracker.getServices(ServiceTracker.java:856)
+	at de.yatta.eclipse.launcher.osgi.core.EclipseHttpClientConfigurer.getInterceptors(EclipseHttpClientConfigurer.java:31)
+	at de.yatta.eclipse.launcher.communication.utils.HttpClientConfigurer.createDefaultCredentialsProvider(HttpClientConfigurer.java:43)
+	at de.yatta.eclipse.launcher.communication.utils.HttpRequestContext.createHttpClient(HttpRequestContext.java:214)
+	at de.yatta.eclipse.launcher.communication.utils.HttpRequestContext.initialize(HttpRequestContext.java:164)
+	at de.yatta.eclipse.launcher.osgi.core.EclipseHttpRequestContext.setApplication(EclipseHttpRequestContext.java:103)
+	at de.yatta.eclipse.launcher.osgi.core.EclipseHttpRequestContext$1.addingService(EclipseHttpRequestContext.java:53)
+	at de.yatta.eclipse.launcher.osgi.core.EclipseHttpRequestContext$1.addingService(EclipseHttpRequestContext.java:1)
+	at org.osgi.util.tracker.ServiceTracker$Tracked.customizerAdding(ServiceTracker.java:943)
+	at org.osgi.util.tracker.ServiceTracker$Tracked.customizerAdding(ServiceTracker.java:1)
+	at org.osgi.util.tracker.AbstractTracked.trackAdding(AbstractTracked.java:256)
+	at org.osgi.util.tracker.AbstractTracked.trackInitial(AbstractTracked.java:183)
+	at org.osgi.util.tracker.ServiceTracker.open(ServiceTracker.java:321)
+	at org.osgi.util.tracker.ServiceTracker.open(ServiceTracker.java:264)
+	at de.yatta.eclipse.launcher.osgi.core.EclipseHttpRequestContext.assertInitialized(EclipseHttpRequestContext.java:85)
+	at de.yatta.eclipse.launcher.communication.utils.HttpRequestContext.prepare(HttpRequestContext.java:386)
+	at de.yatta.eclipse.launcher.communication.utils.BasicRequestFactory.prepare(BasicRequestFactory.java:40)
+	at de.yatta.eclipse.launcher.communication.utils.BasicPlatformRequestFactory.prepare(BasicPlatformRequestFactory.java:36)
+	at de.yatta.eclipse.launcher.osgi.core.BasicEclipseApplicationInterface$1.run(BasicEclipseApplicationInterface.java:142)
+	at de.yatta.eclipse.launcher.osgi.core.BasicEclipseApplicationInterface$2.run(BasicEclipseApplicationInterface.java:473)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 05:12:15.229
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 05:14:40.451
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 05:16:41.199
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2020-12-06 05:16:54.064
+!MESSAGE Unexpected interrupt while waiting on ECF browse request
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.lang.Object.wait(Native Method)
+	at org.eclipse.core.internal.jobs.Semaphore.acquire(Semaphore.java:44)
+	at org.eclipse.core.internal.jobs.JobManager.join(JobManager.java:914)
+	at org.eclipse.core.internal.jobs.InternalJob.join(InternalJob.java:344)
+	at org.eclipse.core.runtime.jobs.Job.join(Job.java:547)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.waitOnSelf(FileInfoReader.java:74)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFiles(FileInfoReader.java:110)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFile(FileInfoReader.java:125)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getLastModified(FileInfoReader.java:130)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.getLastModified(RepositoryTransport.java:249)
+	at org.eclipse.oomph.p2.internal.core.CachingTransport.delegateGetLastModified(CachingTransport.java:396)
+	at org.eclipse.oomph.p2.internal.core.CachingTransport.getLastModified(CachingTransport.java:345)
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.createCacheFromFile(CacheManager.java:108)
+	at org.eclipse.equinox.internal.p2.metadata.repository.XZedSimpleMetadataRepositoryFactory.getLocalFile(XZedSimpleMetadataRepositoryFactory.java:60)
+	at org.eclipse.equinox.internal.p2.metadata.repository.XZedSimpleMetadataRepositoryFactory.load(XZedSimpleMetadataRepositoryFactory.java:80)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at jdk.internal.reflect.GeneratedMethodAccessor61.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:409)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:201)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:476)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:171)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:113)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:124)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at jdk.internal.reflect.GeneratedMethodAccessor61.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:409)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:201)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:476)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:171)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:113)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:124)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at jdk.internal.reflect.GeneratedMethodAccessor61.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:409)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:201)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:476)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.epp.internal.mpc.ui.catalog.MarketplaceCatalog.lambda$12(MarketplaceCatalog.java:342)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2020-12-06 05:16:54.065
+!MESSAGE Unexpected interrupt while waiting on ECF browse request
+!STACK 0
+java.lang.InterruptedException
+	at org.eclipse.core.internal.jobs.Semaphore.acquire(Semaphore.java:34)
+	at org.eclipse.core.internal.jobs.JobManager.join(JobManager.java:914)
+	at org.eclipse.core.internal.jobs.InternalJob.join(InternalJob.java:344)
+	at org.eclipse.core.runtime.jobs.Job.join(Job.java:547)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.waitOnSelf(FileInfoReader.java:74)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFiles(FileInfoReader.java:110)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getRemoteFile(FileInfoReader.java:125)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileInfoReader.getLastModified(FileInfoReader.java:130)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.getLastModified(RepositoryTransport.java:249)
+	at org.eclipse.oomph.p2.internal.core.CachingTransport.delegateGetLastModified(CachingTransport.java:396)
+	at org.eclipse.oomph.p2.internal.core.CachingTransport.getLastModified(CachingTransport.java:345)
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.createCacheFromFile(CacheManager.java:108)
+	at org.eclipse.equinox.internal.p2.metadata.repository.XZedSimpleMetadataRepositoryFactory.getLocalFile(XZedSimpleMetadataRepositoryFactory.java:60)
+	at org.eclipse.equinox.internal.p2.metadata.repository.XZedSimpleMetadataRepositoryFactory.load(XZedSimpleMetadataRepositoryFactory.java:80)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at jdk.internal.reflect.GeneratedMethodAccessor61.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:409)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:201)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:476)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:171)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:113)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:124)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at jdk.internal.reflect.GeneratedMethodAccessor61.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:409)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:201)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:476)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:171)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:113)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:124)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:63)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:775)
+	at jdk.internal.reflect.GeneratedMethodAccessor61.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:409)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:201)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:476)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:110)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:105)
+	at org.eclipse.epp.internal.mpc.ui.catalog.MarketplaceCatalog.lambda$12(MarketplaceCatalog.java:342)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 05:18:41.824
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 05:20:42.510
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 05:22:43.229
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 05:24:43.885
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 05:26:44.414
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 05:28:44.935
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 05:30:45.303
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 05:32:45.685
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 05:34:46.168
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 05:36:46.720
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 05:38:47.060
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 05:40:47.419
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 05:42:47.750
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 05:44:48.097
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 05:46:48.419
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 05:48:48.692
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 05:50:48.937
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 05:52:49.201
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 05:54:49.647
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]

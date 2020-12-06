@@ -3601,3 +3601,219 @@ org.eclipse.core.runtime.CoreException: Launch configuration DesafioItauApplicat
 2020-12-06 01:53:52,413 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-12-06 01:53:52,416 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-12-06 01:53:52,417 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\desafioItau\desafioItau\src\test\resources
+2020-12-06 01:55:20,549 [Worker-18: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 01:57:20,999 [Worker-0: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 01:59:21,402 [Worker-16: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 02:01:21,929 [Worker-18: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 02:03:22,311 [Worker-18: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 02:05:22,760 [Worker-3: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 02:07:23,543 [Worker-16: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 02:09:24,033 [Worker-14: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 02:09:36,151 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 02:09:36,153 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-06 02:09:36,156 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-06 02:09:36,183 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 02:09:36,184 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\desafioItau\desafioItau\src\test\resources
+2020-12-06 02:11:24,441 [Worker-12: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 02:12:20,922 [Worker-16: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.dasafioitau:desafioItau:0.0.1-SNAPSHOT @ C:\Users\novo_\OneDrive\Documentos\desafioItau\desafioItau\pom.xml.
+2020-12-06 02:13:13,289 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 02:13:13,296 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-06 02:13:13,298 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-06 02:13:13,306 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 02:13:13,307 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\desafioItau\desafioItau\src\test\resources
+2020-12-06 02:13:23,530 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 02:13:23,533 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-06 02:13:23,663 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-06 02:13:23,667 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 02:13:23,667 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\desafioItau\desafioItau\src\test\resources
+2020-12-06 02:13:25,590 [Worker-19: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 02:14:05,543 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 02:14:05,546 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-06 02:14:05,551 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-06 02:14:05,555 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 02:14:05,555 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\desafioItau\desafioItau\src\test\resources
+2020-12-06 02:15:26,278 [Worker-19: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 02:17:27,210 [Worker-3: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 02:18:37,053 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 02:18:37,054 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-06 02:18:37,084 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-06 02:18:37,086 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 02:18:37,086 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\desafioItau\desafioItau\src\test\resources
+2020-12-06 02:19:07,868 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 02:19:07,870 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-06 02:19:07,877 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-06 02:19:07,881 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 02:19:07,881 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\desafioItau\desafioItau\src\test\resources
+2020-12-06 02:19:27,803 [Worker-5: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 02:20:20,294 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 02:20:20,295 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-06 02:20:20,296 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-06 02:20:20,297 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 02:20:20,297 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\desafioItau\desafioItau\src\test\resources
+2020-12-06 02:21:10,108 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 02:21:10,110 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-06 02:21:10,114 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-06 02:21:10,119 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 02:21:10,120 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\desafioItau\desafioItau\src\test\resources
+2020-12-06 02:21:28,195 [Worker-12: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 02:21:46,015 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 02:21:46,022 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-06 02:21:46,026 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-06 02:21:46,033 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 02:21:46,034 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\desafioItau\desafioItau\src\test\resources
+2020-12-06 02:23:19,194 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 02:23:19,196 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-06 02:23:19,198 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-06 02:23:19,200 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 02:23:19,200 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\desafioItau\desafioItau\src\test\resources
+2020-12-06 02:23:28,521 [Worker-18: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 02:24:35,582 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 02:24:35,584 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-06 02:24:35,586 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-06 02:24:35,589 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 02:24:35,589 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\desafioItau\desafioItau\src\test\resources
+2020-12-06 02:25:28,957 [Worker-14: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 02:27:29,494 [Worker-5: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 02:29:29,965 [Worker-3: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 02:31:30,386 [Worker-17: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 02:33:30,837 [Worker-14: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 02:35:31,280 [Worker-16: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 02:37:31,932 [Worker-18: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 02:39:32,700 [Worker-18: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 02:41:33,404 [Worker-5: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 02:43:33,760 [Worker-14: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 02:45:34,424 [Worker-5: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 02:47:35,309 [Worker-19: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 02:49:35,927 [Worker-3: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 02:51:36,603 [Worker-16: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 02:53:37,111 [Worker-16: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 02:55:37,559 [Worker-14: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 02:57:38,029 [Worker-19: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 02:59:38,525 [Worker-3: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 03:01:39,037 [Worker-14: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 03:03:39,622 [Worker-18: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 03:05:40,034 [Worker-5: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 03:07:40,442 [Worker-16: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 03:09:40,838 [Worker-14: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 03:11:41,330 [Worker-17: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 03:13:41,797 [Worker-18: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 03:15:42,138 [Worker-18: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 03:17:42,625 [Worker-19: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 03:19:42,980 [Worker-16: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 03:21:34,156 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 03:21:34,158 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-06 03:21:34,160 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-06 03:21:34,161 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 03:21:34,161 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\desafioItau\desafioItau\src\test\resources
+2020-12-06 03:21:43,393 [Worker-3: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 03:22:03,545 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 03:22:03,547 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-06 03:22:03,549 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-06 03:22:03,551 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 03:22:03,551 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\desafioItau\desafioItau\src\test\resources
+2020-12-06 03:22:10,455 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 03:22:10,456 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-06 03:22:10,457 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-06 03:22:10,459 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 03:22:10,459 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\desafioItau\desafioItau\src\test\resources
+2020-12-06 03:22:17,582 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 03:22:17,588 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-06 03:22:17,589 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-06 03:22:17,591 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 03:22:17,591 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\desafioItau\desafioItau\src\test\resources
+2020-12-06 03:23:43,924 [Worker-17: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 03:25:44,424 [Worker-16: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 03:27:44,918 [Worker-19: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 03:28:15,203 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 03:28:15,205 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-06 03:28:15,206 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-06 03:28:15,207 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 03:28:15,208 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\desafioItau\desafioItau\src\test\resources
+2020-12-06 03:29:45,322 [Worker-17: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 03:31:29,852 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 03:31:29,854 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-06 03:31:29,855 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-06 03:31:29,881 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 03:31:29,883 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\desafioItau\desafioItau\src\test\resources
+2020-12-06 03:31:46,303 [Worker-5: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 03:33:46,734 [Worker-17: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 03:35:47,221 [Worker-18: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 03:37:47,604 [Worker-14: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 03:39:47,978 [Worker-18: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 03:41:48,429 [Worker-17: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 03:43:48,901 [Worker-19: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 03:45:49,395 [Worker-19: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 03:47:49,811 [Worker-18: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 03:49:50,499 [Worker-17: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 03:51:50,885 [Worker-18: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 03:53:51,310 [Worker-3: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 03:55:51,837 [Worker-18: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 03:57:52,856 [Worker-18: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 03:59:55,071 [Worker-18: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 04:01:55,571 [Worker-16: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 04:03:56,010 [Worker-18: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 04:05:56,399 [Worker-19: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 04:07:58,003 [Worker-17: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 04:09:58,430 [Worker-19: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 04:11:59,284 [Worker-18: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 04:14:00,112 [Worker-18: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 04:14:57,612 [Worker-20: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 04:16:01,225 [Worker-17: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 04:18:09,813 [Worker-16: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 04:20:12,351 [Worker-12: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 04:22:13,247 [Worker-17: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 04:24:14,102 [Worker-19: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 04:26:14,740 [Worker-14: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 04:28:15,649 [Worker-20: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 04:30:16,233 [Worker-17: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 04:32:16,870 [Worker-19: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 04:34:17,586 [Worker-25: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 04:36:18,185 [Worker-3: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 04:38:21,332 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 04:38:21,334 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-06 04:38:21,336 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-06 04:38:21,339 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 04:38:21,339 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\desafioItau\desafioItau\src\test\resources
+2020-12-06 04:38:30,550 [Worker-16: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 04:40:30,898 [Worker-35: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 04:42:31,284 [Worker-32: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 04:44:31,621 [Worker-36: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 04:46:32,084 [Worker-28: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 04:48:32,593 [Worker-21: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 04:50:34,378 [Worker-21: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 04:52:39,706 [Worker-21: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 04:54:40,699 [Worker-27: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 04:56:41,599 [Worker-27: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 04:58:42,323 [Worker-32: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 05:00:42,858 [Worker-21: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 05:02:43,238 [Worker-27: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 05:04:43,654 [Worker-32: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 05:06:44,220 [Worker-28: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 05:08:45,730 [Worker-28: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 05:12:15,222 [Worker-13: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 05:14:40,449 [Worker-1: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 05:16:41,198 [Worker-21: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 05:18:41,823 [Worker-9: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 05:20:42,508 [Worker-3: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 05:22:43,228 [Worker-9: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 05:24:43,885 [Worker-4: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 05:26:44,413 [Worker-10: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 05:28:10,415 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-12-06 05:28:23,553 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 05:28:23,558 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-12-06 05:28:23,582 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-12-06 05:28:23,585 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-12-06 05:28:23,585 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\novo_\OneDrive\Documentos\desafioItau\desafioItau\src\test\resources
+2020-12-06 05:28:44,934 [Worker-4: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 05:30:45,302 [Worker-10: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 05:32:45,684 [Worker-2: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 05:34:46,167 [Worker-0: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 05:36:46,719 [Worker-0: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 05:38:47,059 [Worker-0: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 05:40:47,419 [Worker-7: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 05:42:47,749 [Worker-0: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 05:44:48,096 [Worker-2: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 05:46:48,419 [Worker-2: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 05:48:48,691 [Worker-7: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 05:50:48,934 [Worker-17: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+2020-12-06 05:52:49,200 [Worker-7: Exporting Eclipse Profile] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]

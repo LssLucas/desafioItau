@@ -15,25 +15,24 @@ import org.springframework.web.bind.annotation.RestController;
 import com.dasafioitau.desafioItau.model.TransacaoModel;
 import com.dasafioitau.desafioItau.service.TransacaoService;
 
-
 @CrossOrigin("*")
 @RestController
 @RequestMapping("/transacao")
 public class TransacaoController {
-	
+
 	@Autowired
 	private TransacaoService transacaoR;
-	
+
 	@PostMapping
-	public ResponseEntity<TransacaoModel> newTransacao(@Valid @RequestBody TransacaoModel transacao){
+	public ResponseEntity<TransacaoModel> newTransacao(@Valid @RequestBody TransacaoModel transacao) {
 		transacaoR.newTransacao(transacao);
-		return ResponseEntity.status(HttpStatus.CREATED).build();	
+		return ResponseEntity.status(HttpStatus.CREATED).build();
 	}
-	
+
 	@DeleteMapping
-	public ResponseEntity<TransacaoModel> delete(){
+	public ResponseEntity<TransacaoModel> delete() {
 		transacaoR.clear();
 		return ResponseEntity.status(HttpStatus.NO_CONTENT).build();
 	}
-	
+
 }

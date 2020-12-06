@@ -4,17 +4,14 @@ import java.time.OffsetDateTime;
 
 import javax.validation.constraints.PastOrPresent;
 
-
-
 public class TransacaoModel {
-	
-	//Atributos
-	
+
+	// Atributos
+
 	private double valor;
-	
-	
+
 	@PastOrPresent
-	private OffsetDateTime dataHora = OffsetDateTime.now();;
+	private OffsetDateTime dataHora = OffsetDateTime.now();
 
 	public double getValor() {
 		return valor;
@@ -32,6 +29,4 @@ public class TransacaoModel {
 		this.dataHora = dataHora;
 	}
 
-	
-	
 }

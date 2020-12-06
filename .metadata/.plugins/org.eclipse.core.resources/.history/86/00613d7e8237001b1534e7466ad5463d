@@ -1,0 +1,5 @@
+package com.dasafioitau.desafioItau.config;
+
+public class SwaggerConfig {
+
+}
