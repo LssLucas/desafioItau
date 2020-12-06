@@ -2,6 +2,9 @@ package com.dasafioitau.desafioItau.model;
 
 import java.time.OffsetDateTime;
 
+import javax.persistence.Temporal;
+import javax.persistence.TemporalType;
+import javax.validation.constraints.NotNull;
 import javax.validation.constraints.PastOrPresent;
 
 
@@ -12,9 +15,20 @@ public class TransacaoModel {
 	
 	private double valor;
 	
+	@NotNull(message = "Este campo não pode ser nulo")
+	@PastOrPresent(message = "A data deve ser atual ou estar no passado")
+	private OffsetDateTime dataHora;
 	
-	@PastOrPresent
-	private OffsetDateTime dataHora = OffsetDateTime.now();;
+	//Construtores
+	public TransacaoModel() {
+		super();
+	}
+	
+	public TransacaoModel(double valor, OffsetDateTime dataHora) {
+		super();
+		this.dataHora = dataHora;
+		this.valor = valor;
+	}
 
 	public double getValor() {
 		return valor;

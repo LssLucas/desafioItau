@@ -2294,3 +2294,27 @@ java.lang.ArrayStoreException: de.yatta.eclipse.launcher.core.win32.WinClientCon
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 01:37:15.640
 !MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 01:39:16.140
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 01:41:16.647
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 01:43:17.166
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 01:45:17.490
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 01:47:17.760
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 01:49:18.681
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 01:51:19.536
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2020-12-06 01:53:19.969
+!MESSAGE close() called when useCnt is already zero for Repository[C:\Users\novo_\OneDrive\Documentos\desafioItau\.git]

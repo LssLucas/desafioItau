@@ -14,7 +14,7 @@ public class TransacaoModel {
 	
 	
 	@PastOrPresent
-	private OffsetDateTime dataHora = OffsetDateTime.now();;
+	private OffsetDateTime dataHora;
 
 	public double getValor() {
 		return valor;
