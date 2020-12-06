@@ -20,8 +20,14 @@ public class TransacaoService {
 	
 	public TransacaoModel newTransacao(TransacaoModel t) {
 		transacao.add(t);
-		int id = transacao.indexOf(t);
-		return transacao.get(id);
+		/*
+		 //  Objeto que comparasse valor com vazio
+		 * 
+		 * if(t.getValor()<0 || t.getValor() == ) {
+			
+		}*/
+		int i = transacao.indexOf(t);
+		return transacao.get(i);
 	}
 	
 	public List<TransacaoModel> clear(){

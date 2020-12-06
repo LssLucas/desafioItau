@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.dasafioitau.desafioItau"},{"l":"com.dasafioitau.desafioItau.config"},{"l":"com.dasafioitau.desafioItau.controller"},{"l":"com.dasafioitau.desafioItau.model"},{"l":"com.dasafioitau.desafioItau.service"}]
