@@ -1,0 +1,14 @@
+package com.dasafioitau.desafioItau.controller;
+
+import org.springframework.web.bind.annotation.PostMapping;
+
+import com.dasafioitau.desafioItau.service.TransacaoService;
+
+public class TransacaoController {
+
+	TransacaoService transacaoService = new TransacaoService();
+	
+	@PostMapping("/transacao")
+	
+	
+}

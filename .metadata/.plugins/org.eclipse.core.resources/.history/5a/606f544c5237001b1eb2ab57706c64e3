@@ -1,0 +1,9 @@
+package com.dasafioitau.desafioItau.controller;
+
+import com.dasafioitau.desafioItau.service.TransacaoService;
+
+public class TransacaoController {
+
+	TransacaoService transacaoService = new TransacaoService();
+	
+}

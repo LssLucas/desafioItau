@@ -1,0 +1,10 @@
+package com.dasafioitau.desafioItau.service;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public interface TransacaoService {
+
+	private List<TransacaoService> transacao = new ArrayList()<>();
+	
+}

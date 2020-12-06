@@ -1,0 +1,9 @@
+package com.dasafioitau.desafioItau.service;
+
+import com.dasafioitau.desafioItau.model.TransacaoModel;
+
+public class TransacaoService {
+
+	TransacaoModel newTransacao(TransacaoModel transacao);
+	
+}

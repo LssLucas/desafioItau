@@ -1,0 +1,20 @@
+package com.dasafioitau.desafioItau.service;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import com.dasafioitau.desafioItau.model.TransacaoModel;
+
+public class TransacaoService {
+
+	private List<TransacaoModel> transacao = new ArrayList<>();
+	
+	public List<TransacaoModel> getTransacoes(){
+		return transacao;
+	}
+	
+	public TransacaoModel newTransacao(TransacaoModel t) {
+		
+	}
+	
+}

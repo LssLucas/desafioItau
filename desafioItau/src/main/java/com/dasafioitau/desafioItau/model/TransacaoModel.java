@@ -5,10 +5,13 @@ import java.time.OffsetDateTime;
 import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
 
+import com.sun.istack.NotNull;
+
 public class TransacaoModel {
 	
-	//Atributos	
-	private float valor;
+	//Atributos
+	@NotNull
+	private double valor;
 	
 	@Temporal(TemporalType.TIMESTAMP)
 	private OffsetDateTime dataHora = OffsetDateTime.now();
@@ -18,17 +21,17 @@ public class TransacaoModel {
 		super();
 	}
 	
-	public TransacaoModel(float valor, OffsetDateTime dataHora) {
+	public TransacaoModel(double valor, OffsetDateTime dataHora) {
 		super();
 		this.dataHora = dataHora;
 		this.valor = valor;
 	}
 
-	public float getValor() {
+	public double getValor() {
 		return valor;
 	}
 
-	public void setValor(float valor) {
+	public void setValor(double valor) {
 		this.valor = valor;
 	}
 
