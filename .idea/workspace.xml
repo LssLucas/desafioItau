@@ -6,30 +6,235 @@
   <component name="ChangeListManager">
     <list default="true" id="2e555fdc-6329-40ab-8a33-4058fa6b1927" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.cdt.core/.log" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.cdt.core/.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/12/50d1fc3ea236001b17c9f3c429ee26a0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/4/2039dd23a036001b17c9f3c429ee26a0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/4b/e03b7297a236001b17c9f3c429ee26a0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/80/90a21bb9a236001b17c9f3c429ee26a0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/9/d04dc169a236001b17c9f3c429ee26a0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/bb/c0717a0c6536001b17c9f3c429ee26a0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/ce/50cc9ef1a236001b17c9f3c429ee26a0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/d4/10070ab4a236001b17c9f3c429ee26a0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/fa/e0fc2269a036001b17c9f3c429ee26a0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.indexes/38/75/35/62/history.index" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.indexes/38/75/35/62/history.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.indexes/38/75/38/a6/history.index" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.indexes/38/75/38/a6/history.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.indexes/38/75/88/history.index" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.indexes/38/75/88/history.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.indexes/38/75/dc/a6/history.index" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.indexes/38/75/dc/a6/history.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.indexes/38/75/history.index" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.indexes/38/75/history.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.indexes/38/81/c0/5c/29/4e/history.index" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.indexes/38/81/c0/5c/29/4e/history.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.indexes/38/81/c0/5c/29/history.index" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.indexes/38/81/c0/5c/29/history.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.indexes/38/81/c0/5c/4e/history.index" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.indexes/38/81/c0/5c/4e/history.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.indexes/38/81/c0/5c/9c/4e/history.index" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.indexes/38/81/c0/5c/9c/4e/history.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.indexes/38/81/c0/5c/9c/history.index" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.indexes/38/81/c0/5c/9c/history.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.indexes/38/81/c0/5c/b5/4e/history.index" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.indexes/38/81/c0/5c/b5/4e/history.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.indexes/38/81/c0/5c/b5/history.index" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.indexes/38/81/c0/5c/b5/history.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.indexes/38/81/c0/5c/be/4e/history.index" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.indexes/38/81/c0/5c/be/4e/history.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.indexes/38/81/c0/5c/be/history.index" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.indexes/38/81/c0/5c/be/history.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.indexes/38/81/c0/5c/history.index" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.indexes/38/81/c0/5c/history.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.indexes/38/bc/history.index" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.indexes/38/bc/history.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.indexes/38/db/history.index" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.indexes/38/db/history.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.indexes/38/history.index" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.indexes/38/history.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.indexes/e4/b9/22/81/c0/5c/9c/history.index" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.indexes/e4/b9/22/81/c0/5c/9c/history.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.indexes/e4/b9/22/81/c0/5c/b5/history.index" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.indexes/e4/b9/22/81/c0/5c/b5/history.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.indexes/e4/b9/22/81/c0/5c/be/history.index" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.indexes/e4/b9/22/81/c0/5c/be/history.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.markers" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.markers.snap" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/desafioItau/1.tree" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.markers.snap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/9.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/10.tree" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/9.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/10.snap" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.core.prefs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.ui.workbench.swt/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.ui.workbench.swt/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.mpc.ui/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.epp.mpc.ui/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/100613950.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1048220195.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1106710166.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1175790447.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1197825701.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1294895388.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1301817408.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1346994304.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1363968082.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1410051192.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/145965610.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1461529539.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1487394390.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1510484183.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1525093128.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1595745686.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1661716931.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1680768221.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1735412122.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1810857055.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1855241053.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1861990828.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1948125782.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/1973054438.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/20704194.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2075272418.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2079502156.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2083254754.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2129850001.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2164895639.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2205497397.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2205607198.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2239069791.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2285636645.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2288074663.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2334224554.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2403307703.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2469907808.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2542448886.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2603196525.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2664125446.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2678407684.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2716652687.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/27515442.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2761438968.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2804342147.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2807573298.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2886553170.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2888381748.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2927625257.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2955632249.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2992044375.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/300350707.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3003545503.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3040428693.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3059717640.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3071880613.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3136634642.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3328938840.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3338244317.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3388497912.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3462251027.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3471280862.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3479530631.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3497824524.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/350444907.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3594606322.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3621630687.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3661930644.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3670764870.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3688444322.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3714957275.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3718882863.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3723102745.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/374719882.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3760394747.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3774750536.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3805073261.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3822817922.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3842568365.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3904572908.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/3914200476.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/4030819495.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/4101222744.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/4126526464.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/4144833181.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/4187381637.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/4245589709.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/4251849078.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/4277386090.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/443533993.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/518842002.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/523116906.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/524654033.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/525406770.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/544645211.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/694025290.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/723722292.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/783597110.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/79848081.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/819049435.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/872572214.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/967805112.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/989242372.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/996008398.index" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/desafioItau/2020/12/50/refactorings.history" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/desafioItau/2020/12/50/refactorings.history" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/desafioItau/2020/12/50/refactorings.index" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/desafioItau/2020/12/50/refactorings.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments.gen" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments.gen" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments_16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/workspacestate.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/workspacestate.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.search/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.search/dialog_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/version.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafioItau/src/main/java/com/dasafioitau/desafioItau/DesafioItauApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/src/main/java/com/dasafioitau/desafioItau/DesafioItauApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/allclasses-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/allclasses-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/allpackages-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/allpackages-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/DesafioItauApplication.html" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/DesafioItauApplication.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/class-use/DesafioItauApplication.html" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/class-use/DesafioItauApplication.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/config/SwaggerConfig.html" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/config/SwaggerConfig.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/config/class-use/SwaggerConfig.html" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/config/class-use/SwaggerConfig.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/config/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/config/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/config/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/config/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/config/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/config/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/controller/EstatisticaController.html" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/controller/EstatisticaController.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/controller/TransacaoController.html" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/controller/TransacaoController.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/controller/class-use/EstatisticaController.html" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/controller/class-use/EstatisticaController.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/controller/class-use/TransacaoController.html" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/controller/class-use/TransacaoController.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/controller/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/controller/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/controller/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/controller/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/controller/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/controller/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/model/TransacaoModel.html" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/model/TransacaoModel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/model/class-use/TransacaoModel.html" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/model/class-use/TransacaoModel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/model/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/model/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/model/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/model/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/model/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/model/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/service/TransacaoService.html" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/service/TransacaoService.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/service/class-use/TransacaoService.html" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/service/class-use/TransacaoService.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/service/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/service/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/service/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/service/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/service/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/com/dasafioitau/desafioItau/service/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/index-files/index-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/index-files/index-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/index-files/index-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/index-files/index-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/index-files/index-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/index-files/index-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/index-files/index-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/index-files/index-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/index-files/index-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/index-files/index-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/index-files/index-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/index-files/index-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/index-files/index-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/index-files/index-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/index-files/index-8.html" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/index-files/index-8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/member-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/member-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/overview-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/overview-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/package-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/package-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/system-properties.html" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/system-properties.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/doc/type-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/doc/type-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/src/main/java/com/dasafioitau/desafioItau/config/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/src/main/java/com/dasafioitau/desafioItau/config/SwaggerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/src/main/java/com/dasafioitau/desafioItau/controller/TransacaoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/src/main/java/com/dasafioitau/desafioItau/controller/TransacaoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/src/main/java/com/dasafioitau/desafioItau/service/TransacaoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/src/main/java/com/dasafioitau/desafioItau/service/TransacaoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/target/classes/com/dasafioitau/desafioItau/config/SwaggerConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/target/classes/com/dasafioitau/desafioItau/config/SwaggerConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/target/classes/com/dasafioitau/desafioItau/controller/TransacaoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/target/classes/com/dasafioitau/desafioItau/controller/TransacaoController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/target/classes/com/dasafioitau/desafioItau/service/TransacaoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/target/classes/com/dasafioitau/desafioItau/service/TransacaoService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/target/desafioItau-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/target/desafioItau-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/target/desafioItau-0.0.1-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/target/desafioItau-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/target/surefire-reports/TEST-com.dasafioitau.desafioItau.DesafioItauApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/target/surefire-reports/TEST-com.dasafioitau.desafioItau.DesafioItauApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioItau/target/surefire-reports/com.dasafioitau.desafioItau.DesafioItauApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/desafioItau/target/surefire-reports/com.dasafioitau.desafioItau.DesafioItauApplicationTests.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

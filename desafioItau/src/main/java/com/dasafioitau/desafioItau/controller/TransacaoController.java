@@ -26,9 +26,10 @@ public class TransacaoController {
 	@PostMapping
 	public ResponseEntity<TransacaoModel> newTransacao(@Valid @RequestBody TransacaoModel transacao) {
 		transacaoR.newTransacao(transacao);
-		if(transacao == null) {
+		if (transacao == null) {
 			return ResponseEntity.status(HttpStatus.BAD_REQUEST).build();
-		} if(transacao.getValor()<0) {
+		}
+		if (transacao.getValor() < 0) {
 			return ResponseEntity.status(HttpStatus.UNPROCESSABLE_ENTITY).build();
 		}
 		return ResponseEntity.status(HttpStatus.CREATED).build();
