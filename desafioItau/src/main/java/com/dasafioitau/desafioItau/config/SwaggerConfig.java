@@ -24,11 +24,12 @@ public class SwaggerConfig {
 	}
 
 	private ApiInfo apiInfo() {
-		return new ApiInfoBuilder().title("Desafio de Programação").description("API - Desafio de Programação").version("1.0")
-				.contact(contact()).build();
+		return new ApiInfoBuilder().title("Desafio de Programação").description("API - Desafio de Programação")
+				.version("1.0").contact(contact()).build();
 	}
 
 	private Contact contact() {
-		return new Contact("Lucas Silveira dos Santos", "https://github.com/LssLucas","Estudande de Desenvolvimento de Sistemas");
+		return new Contact("Lucas Silveira dos Santos", "https://github.com/LssLucas \n linkedin.com/in/lucas-silveira-dos-santos/",
+				"Estudande de Desenvolvimento de Sistemas");
 	}
 }
